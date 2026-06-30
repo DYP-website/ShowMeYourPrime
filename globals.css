@@ -1,7 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-:root { color-scheme: light; }
-body { margin:0; background: radial-gradient(circle at 12% 5%, #dffbf0 0, transparent 28%), radial-gradient(circle at 86% 10%, #eadfff 0, transparent 30%), linear-gradient(135deg,#fbfdfb,#f6f4ff); color:#172018; }
-.glass { background: rgba(255,255,255,.72); backdrop-filter: blur(22px); border:1px solid rgba(255,255,255,.78); }
-.ringbar { background: conic-gradient(from 180deg, var(--c) calc(var(--p)*1%), #eceef2 0); }
