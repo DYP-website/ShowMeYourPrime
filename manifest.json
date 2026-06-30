@@ -1,0 +1,9 @@
+{
+  "name": "Show Me Your Prime Another Time",
+  "short_name": "Prime",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#f8fbff",
+  "icons": []
+}
